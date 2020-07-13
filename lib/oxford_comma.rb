@@ -4,8 +4,8 @@ if array.length == 2
   array.join(" and ")
 elsif array.length >= 3
 array.last.insert(0, "and ")
-array.join(", ")
  end
+ array.join(", ")
 
 #  if  (#{""})
 #   puts ("kiwi")
